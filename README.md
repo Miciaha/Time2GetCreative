@@ -1,2 +1,2 @@
 # Time2GetCreative
- - Tim was created using CSS and Javascript. 
+ - Created using CSS and Javascript. 
