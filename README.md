@@ -1,2 +1,2 @@
 # Time2GetCreative
- - Created using CSS and Javascript. 
+ - A just for chuckles project utilizing CSS and Javascript. 
